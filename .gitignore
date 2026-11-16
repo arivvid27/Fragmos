@@ -86,3 +86,4 @@ Desktop.ini
 
 # Scratch space for throwaway scripts
 .scratch/
+.env*
