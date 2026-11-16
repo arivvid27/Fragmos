@@ -1,0 +1,6 @@
+.nimbalyst
+.env*
+!.env.example
+.git
+node_modules
+.next

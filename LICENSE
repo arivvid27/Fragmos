@@ -1,0 +1,102 @@
+Business Source License 1.1
+
+Parameters
+
+Licensor:           Videsh Karthik Arivazhagan
+Licensed Work:      Fragmos (including all core orchestration, 
+                    containment, and forensic telemetry files)
+Change Date:        November 15, 2029
+Change License:     Apache License, Version 2.0
+Additional Use Grant:
+                    Permitted Use is strictly limited to non-commercial, personal,
+                    educational, and academic research use by individual natural 
+                    persons. 
+                    
+                    CRITICAL ENTERPRISE RESTRICTIONS:
+                    1. You may NOT use this Software if you are a commercial entity, 
+                       corporation, or employee acting on behalf of a commercial 
+                       entity executing "internal evaluations," "proof of concepts," 
+                       "R&D safety tests," or benchmarking.
+                    2. Use of this Software by any entity with more than zero (0) 
+                       full-time employees or gross revenue exceeding $0.00 USD 
+                       requires a paid, explicit Enterprise Evaluation License or 
+                       Commercial Subscription from the Licensor.
+                    3. Any automated compilation or integration of this Software into 
+                       corporate development pipelines or production networks is 
+                       strictly prohibited.
+                    ANTI-SHELL & NON-PROFIT RESTRICTIONS:
+                    4. Non-profit organizations, foundations, open-source consortiums, 
+                       and academic institutions are EXCLUDED from the free tier if 
+                       the research, data, or systems utilizing this Software are 
+                       funded by, shared with, or intended to benefit a commercial 
+                       entity, corporate sponsor, or revenue-generating subsidiary.
+                    5. If any intellectual property, agent alignment data, or safe 
+                       software models developed using Project CASSANDRA are sold, 
+                       licensed, or transferred to a commercial entity within 
+                       twenty-four (24) months of utilizing this Software, that 
+                       use shall retroactively be deemed an Unlicensed Commercial 
+                       Breach, and the entity shall be liable for full corporate 
+                       licensing fees plus statutory damages.
+                    6. Educational use is strictly defined as an individual high school, 
+                       undergraduate, or graduate student running the software locally 
+                       for personal learning or a classroom demonstration. It explicitly 
+                       excludes institutional research labs executing corporate-funded 
+                       grants.
+                    GOVERNMENT, MILITARY, AND WEAPONS EXCLUSION:
+                    7. Sovereign State and Military Restriction: This Software is strictly 
+                       prohibited from use by any sovereign government, state agency, 
+                       federal entity, military branch, intelligence agency, or municipal 
+                       authority, including but not limited to the United States Department 
+                       of Defense (DoD), DARPA, or international equivalents.
+                    8. End-Use Weaponization Ban: Under no circumstances may this Software 
+                       be deployed, tested, integrated, or evaluated by any entity—including 
+                       private defense contractors, aerospace corporations, or research 
+                       laboratories—for use in kinetic weapons systems, automated tactical 
+                       drones, military decision-making networks, or national security 
+                       infrastructure.
+                    9. Consent Mandate: Any use of this Software by a state actor or defense 
+                       contractor requires a bespoke, non-standard Bilateral Government Use Authorization 
+                       personally reviewed, approved, and wet-signed by the Licensor. 
+                       In the absence of this document, any deployment is a direct violation 
+                       of this License and international copyright law.
+
+Terms
+
+1. The Licensor hereby grants you the right to copy, modify, create derivative 
+   works, redistribute, and make non-production use of the Licensed Work solely 
+   in accordance with the Additional Use Grant set forth above.
+
+2. Any use of the Licensed Work that does not comply with the Additional Use 
+   Grant is prohibited. To use the Licensed Work outside of the Additional Use 
+   Grant, you must obtain a separate commercial license agreement and pay all 
+   applicable fees to the Licensor.
+
+3. Effective on the Change Date specified above, the Licensor hereby grants 
+   you a permanent, worldwide, royalty-free, non-exclusive, irrevocable license 
+   under all intellectual property rights in the Licensed Work to use, copy, 
+   distribute, perform, display, modify, and create derivative works of the 
+   Licensed Work under the terms of the Change License specified above.
+
+4. Intellectual Property Notice: You must ensure that any copy of the Licensed 
+   Work, or any modification or derivative work thereof that you distribute or 
+   make available, retains the text of this License, including all parameters, 
+   and all original copyright notices.
+
+5. This License does not grant you any right to use the Licensor’s trademarks, 
+   service marks, or trade names.
+
+6. Disclaimer of Warranty: THE LICENSED WORK IS PROVIDED "AS IS", WITHOUT 
+   WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE 
+   WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND 
+   NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE 
+   FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, 
+   TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE LICENSED 
+   WORK OR THE USE OR OTHER DEALINGS IN THE LICENSED WORK.
+
+7. Limitation of Liability: TO THE EXTENT NOT PROHIBITED BY LAW, IN NO EVENT 
+   SHALL THE LICENSOR BE LIABLE FOR ANY INCIDENTAL, SPECIAL, INDIRECT, OR 
+   CONSEQUENTIAL DAMAGES WHATSOEVER, INCLUDING, WITHOUT LIMITATION, DAMAGES 
+   FOR LOSS OF PROFITS, LOSS OF DATA, BUSINESS INTERRUPTION, OR ANY OTHER 
+   COMMERCIAL DAMAGES OR LOSSES, ARISING OUT OF OR RELATED TO YOUR USE OR 
+   INABILITY TO USE THE LICENSED WORK, HOWEVER CAUSED, REGARDLESS OF THE THEORY 
+   OF LIABILITY (CONTRACT, TORT, OR OTHERWISE).
